@@ -1,0 +1,10 @@
+Package: imgtr
+Type: Package
+Title: imgtr
+Version: 0.1.0
+Author: Louis Maddox
+Maintainer: Louis Maddox <louismmx@gmail.com>
+Description: Japanese web translation from local image files
+License: GPL-3.0
+Encoding: UTF-8
+LazyData: true

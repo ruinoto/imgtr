@@ -1,0 +1,3 @@
+imgtr <- function(file) {
+  # ...
+}
